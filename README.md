@@ -1,5 +1,5 @@
 # mykrypt
-A web3.0 web app which sends ethereum via metamask via goerli test network. I developed this with various new technologies like react js, solidity, tailwind css, vite, hardhat, alchemy, giphy. After sending ethereum and after mentioning their is a gif attached to it and when we click it we can see all the transaction history. link for the app
+A web3.0 web app that sends ethereum via metamask through the Goerli test network. I developed this with various new technologies like ReactJS, Solidity, TailwindCSS, vite, hardhat, alchemy, giphy. After sending ethereum, is a GIF is attached to it and when we click it we can see all the transaction history. Link to the app
 https://mykryptlive.netlify.app/
 
 ![Screenshot 2022-10-18 053158](https://user-images.githubusercontent.com/76736466/196337251-f4618f1a-167e-427b-9ebc-e6669c4cd3f9.jpg)
